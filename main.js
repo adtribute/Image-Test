@@ -1,7 +1,14 @@
-// TODOs
-// 1. Insert all images into the page
-// 2. Arrange images in a single column in the middle of the page
-// 3. When your mouse hovers over an image, make it double in size
+/* 
+TODOs:
+  1. Insert all images into the page
+  2. Arrange images in a single column in the middle of the page
+  3. When your mouse hovers over an image, make it double in size
+
+Helpful functions you can, but are not required, to use:
+  - document.querySelector
+  - document.createElement
+  - node.appendChild
+ */
 
 const cats = [
   'https://img.buzzfeed.com/buzzfeed-static/static/2014-04/enhanced/webdr03/4/16/enhanced-26562-1396642697-1.jpg',
